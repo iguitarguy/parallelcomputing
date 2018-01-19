@@ -1,0 +1,22 @@
+Job ID: 13562.ursus.ggc.edu
+Working directory is /home/atsou/Assignments/Module6
+Running on host hpc7.ggc.edu
+Time is Thu Oct 19 16:48:45 EDT 2017
+Current Directory is /home/atsou/Assignments/Module6
+This job runs on the following processors:
+hpc7 hpc7 hpc7 hpc7
+This job has allocated 4 nodes/processors.
+Traceback (most recent call last):
+  File "nonBlocking1.py", line 56, in <module>
+    main()
+  File "nonBlocking1.py", line 31, in main
+    slaveResults.append(results)
+NameError: name 'results' is not defined
+mpirun: killing job...
+
+--------------------------------------------------------------------------
+mpirun noticed that process rank 0 with PID 7559 on node hpc7.ggc.edu exited on signal 0 (Unknown signal 0).
+--------------------------------------------------------------------------
+mpirun: clean termination accomplished
+
+4 total processes killed (some possibly by mpirun during cleanup)

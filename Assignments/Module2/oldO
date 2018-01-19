@@ -1,0 +1,12 @@
+warning: print.m: epstool binary is not available.
+Some output formats are not available.
+warning: called from
+    __print_parse_opts__ at line 382 column 9
+    print at line 288 column 8
+    MCPi_0.m at line 28 column 1
+warning: print.m: fig2dev binary is not available.
+Some output formats are not available.
+warning: print.m: pstoedit binary is not available.
+Some output formats are not available.
+45.07user 0.20system 0:48.46elapsed 93%CPU (0avgtext+0avgdata 142672maxresident)k
+0inputs+120outputs (0major+28522minor)pagefaults 0swaps

@@ -1,0 +1,20 @@
+Job ID: 12908.ursus.ggc.edu
+Working directory is /home/atsou/Assignments/MPI
+Running on host hpc3.ggc.edu
+Time is Tue Oct 3 16:40:31 EDT 2017
+Current Directory is /home/atsou/Assignments/MPI
+This job runs on the following processors:
+hpc3 hpc3 hpc3 hpc3
+This job has allocated 4 nodes/processors.
+Hello World, Version 0
+Hello World from process  1
+4  is the number of processes on processor  hpc3.ggc.edu .
+Hello World, Version 0
+Hello World from process  2
+4  is the number of processes on processor  hpc3.ggc.edu .
+Hello World, Version 0
+Hello World from process  0
+4  is the number of processes on processor  hpc3.ggc.edu .
+Hello World, Version 0
+Hello World from process  3
+4  is the number of processes on processor  hpc3.ggc.edu .

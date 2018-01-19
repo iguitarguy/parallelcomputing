@@ -1,0 +1,11 @@
+Job ID: 13136.ursus.ggc.edu
+Working directory is /home/atsou/Assignments/Module6
+Running on host hpc3.ggc.edu
+Time is Thu Oct 12 15:40:39 EDT 2017
+Current Directory is /home/atsou/Assignments/Module6
+This job runs on the following processors:
+hpc3 hpc3 hpc3 hpc3
+This job has allocated 4 nodes/processors.
+Node  2  out of  4  says  Hello World!
+Node  3  out of  4  says  Hello World!
+Node  1  out of  4  says  Hello World!
